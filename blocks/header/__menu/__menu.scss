@@ -1,0 +1,9 @@
+.header__menu {
+  @include maxWindth;
+}
+
+/*@media (max-width: 48em) {
+  .header__menu {
+    display: block;
+  }
+}*/

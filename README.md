@@ -11,4 +11,4 @@ Changes:
 
 1. GULP is connected and configured;
 2. The "blocks" folder has been created: further blocks will be placed in this folder (BEM methodology);
-3. Fold the header of the site (not under PP).
+3. The layout of the site header has been made (not under PP).
